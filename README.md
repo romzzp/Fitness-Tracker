@@ -29,6 +29,9 @@ The landing page
 Workout adding page
 ![alt text](./assets/addWorkout.png)
 
+Dashboard page
+![alt text](./assets/dashboard.png)
+
 ## Questions
 
 If you have any questions regarding the application you can reach me at [github](https://github.com/romzzp) or at my [email](romzz.patel@gmail.com).
